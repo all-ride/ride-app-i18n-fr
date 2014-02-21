@@ -1,3 +1,3 @@
-# Pallo: I18n (fr)
+# Ride: I18n (fr)
 
-French locale for a Pallo application.
+French locale for a Ride application.
